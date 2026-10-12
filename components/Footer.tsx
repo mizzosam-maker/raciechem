@@ -37,7 +37,7 @@ export default function Footer() {
           <h4 className="font-semibold text-white mb-3">Contact</h4>
           <ul className="space-y-2 text-sm text-slate-400">
             <li>Nairobi, Kenya</li>
-            <li>+254 700 000 000</li>
+            <li>+254 117 345 286</li>
             <li>sales@raciechem.co.ke</li>
             <li>Mon–Sat · 8:00–18:00</li>
           </ul>
@@ -45,7 +45,7 @@ export default function Footer() {
       </div>
       <div className="border-t border-white/10">
         <div className="mx-auto max-w-6xl px-4 py-4 flex flex-col md:flex-row items-center justify-between gap-2 text-xs text-slate-400">
-          <div>© {new Date().getFullYear()} Racie Chem Supplies. Prototype — dummy data.</div>
+          <div>© {new Date().getFullYear()} Racie Chem Supplies. Prototype.</div>
           <div>M-Pesa · Bank Transfer · Institutional Invoicing</div>
         </div>
       </div>

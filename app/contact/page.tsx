@@ -17,9 +17,9 @@ export default function ContactPage() {
       <div className="mt-10 grid gap-8 md:grid-cols-[1fr_1.2fr]">
         <div className="space-y-4">
           {[
-            { t: "Phone", v: "+254 700 000 000", s: "Mon–Sat · 8:00–18:00" },
+            { t: "Phone", v: "+254 117 345 286", s: "Mon–Sat · 8:00–18:00" },
             { t: "Email", v: "sales@raciechem.co.ke", s: "Replies within 1 business day" },
-            { t: "WhatsApp", v: "+254 700 000 000", s: "Fast order support" },
+            { t: "WhatsApp", v: "+254 117 345 286", s: "Fast order support" },
             { t: "Location", v: "Industrial Area, Nairobi, Kenya", s: "Warehouse & pickup point" },
           ].map(c => (
             <div key={c.t} className="rounded-2xl border border-slate-200 bg-white p-5">
@@ -66,7 +66,7 @@ export default function ContactPage() {
                 Send Message
               </button>
               <p className="text-xs text-slate-500">
-                Prototype form — no message is actually sent.
+                Prototype form  no message is actually sent.
               </p>
             </form>
           )}

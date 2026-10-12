@@ -16,7 +16,7 @@ export default function AboutPage() {
           <h2 className="font-bold text-xl">Our mission</h2>
           <p className="mt-2 text-slate-700 text-sm">
             To make high-quality, correctly-labelled laboratory supplies accessible to every
-            learning institution in Kenya — reliably, safely and at fair prices.
+            learning institution in Kenya reliably, safely and at fair prices.
           </p>
         </div>
         <div className="rounded-2xl border border-slate-200 bg-white p-6">
