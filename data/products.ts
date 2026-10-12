@@ -21,7 +21,7 @@ export const products: Product[] = [
       { label: "Appearance", value: "Clear, colourless liquid" },
       { label: "Storage", value: "Cool, ventilated, away from bases" },
     ],
-    image: "/products/hcl.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAeYllpVBXr7UENZ2AzX-iEhaLtO5ulb1gVO3X2d0vQ&s=10",
     featured: true,
   },
   {
@@ -44,7 +44,7 @@ export const products: Product[] = [
       { label: "Solubility", value: "Highly soluble in water" },
       { label: "Storage", value: "Dry, airtight container" },
     ],
-    image: "/products/naoh.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRneVDfCzwSxoMLnflpqoKHQ-QxO0zTOQ0Zh32v1GYanA&s=10",
     featured: true,
   },
   {
@@ -67,7 +67,7 @@ export const products: Product[] = [
       { label: "Appearance", value: "Colourless, oily liquid" },
       { label: "Storage", value: "Acid-resistant cabinet" },
     ],
-    image: "/products/h2so4.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhZwLpMRV-yAB_D0kqc2akeBtexKBlGFpJlG4J-6cPA&s=10",
     featured: true,
   },
   {
@@ -90,7 +90,7 @@ export const products: Product[] = [
       { label: "Solubility", value: "Soluble in water" },
       { label: "Storage", value: "Cool, dry place" },
     ],
-    image: "/products/cuso4.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuKSUsYnYrbLGsMGnAQ-qhy92W5_QT9Ca1-JllmjG0w&s=10",
   },
   {
     id: "kmno4-005",
@@ -112,7 +112,7 @@ export const products: Product[] = [
       { label: "Solubility", value: "Soluble in water" },
       { label: "Storage", value: "Away from reducing agents" },
     ],
-    image: "/products/kmno4.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZGpDpAHfAlBMOlOp_dTCbQp8trlmZrsYgFOHDxKKOw&s=10",
   },
   {
     id: "glassware-006",
@@ -133,7 +133,7 @@ export const products: Product[] = [
       { label: "Heat resistance", value: "Up to 500 °C" },
       { label: "Pieces", value: "5" },
     ],
-    image: "/products/beakers.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6X-8E2wUFJLgFtNEK8V4hXZmNeNIw_zKIV_pKji7YxA&s=10",
   },
   {
     id: "ph-007",
@@ -153,7 +153,7 @@ export const products: Product[] = [
       { label: "Strips", value: "100 per booklet" },
       { label: "Storage", value: "Dry, away from sunlight" },
     ],
-    image: "/products/ph.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKWYGzeTQZwMkmbnnp5q30Zm0bpndXZlyAVps6CVLtA&s=10",
   },
   {
     id: "ppe-008",
@@ -173,7 +173,7 @@ export const products: Product[] = [
       { label: "Coat", value: "Cotton, unisex, M–XL" },
       { label: "Compliance", value: "CE marked" },
     ],
-    image: "/products/ppe.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMeVh9VVKU8_LyduwZXn1Z2PajSWJutLp0pjAJsrdQg&s=10",
   },
 ];
 
